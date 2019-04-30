@@ -1,0 +1,398 @@
+@media only screen and (max-width: 1800px) {
+	.three-img:last-child:hover > div {left: inherit;right: 60pt;}
+}
+@media only screen and (max-width: 1600px) {
+	.image-grid-cover { width: 100%;}
+	.development-heading-section h5 {font-size: 25pt;}
+	.nav.nav-tabs .nav-item a {font-size: 15pt;}
+	#development-tab.nav-link,#management-tab.nav-link,#construction-tab.nav-link,#finance-tab.nav-link,
+	#development-tab.nav-link.active,#management-tab.nav-link.active,#construction-tab.nav-link.active,#finance-tab.nav-link.active{font-size: 15pt;}
+	.management-heading-section h5,.development-heading-section h5,.construction-heading-section h5,.finance-heading-section h5{font-size: 24pt;padding-left: 0px;padding-right: 0px;}
+	.market-part img {width: 100%; height: 415pt;}
+	.map h4 {padding-left: 100pt;}
+	.address { padding-left: 100pt;}
+    .market-tab .nav.nav-tabs.nav-fill {width: 100%;}
+    .market-top .top-develop { margin-left: 50pt;}
+	.search-blog{ padding-left: 20pt;}
+	.tabs #myTab,.tabs .tab-area{ margin-left:50pt; margin-right: 50pt;width:calc(100% - 20pt)}
+	.images-carousel-sec > div .owl-item .item img {height: 100% !important;}
+	.three-img:last-child .feature-project-content{right:80pt; left: inherit;}
+	.footer-nav .list-items{padding:0}
+	.footer-nav .list-items li{margin-right:60px}
+	.custom-nav .nav-link, .navbar-nav .menu-item a{font-size:14pt;margin-right:25pt;}
+}
+
+@media only screen and (max-width: 1400px) {
+	.market-tab .tab-area,.market-title p{margin-top:0;}
+	.market-tab .military h5{max-width:100%;font-size: 20pt;margin:0;}
+	.market-tab .para-section{margin-top:0;}
+	.better-tom-content {padding:10pt;}
+	.project-content{transform:scale(1)}
+	.about-heading, .expertise-heading,.extraordinary,.news-blog,.contact-section,.carousel-item img{height: 450px !important;}
+	.tabs .development-heading-section h5, .tabs .management-heading-section h5, .tabs .construction-heading-section h5, .tabs .finance-heading-section h5{padding: 0 15px !important; font-size: 20pt !important;line-height:26pt !important;}
+		.tabs #myTab,.tabs .tab-area{ margin-left:10pt !important; margin-right: 10pt !important;}
+	.icons a i,.contact-hello{font-size: 16pt;}
+	.footer-nav ul.list-items li a{font-size: 14pt;}
+	.footer-nav ul.list-items li{ margin-right: 12px;display: inline-block;}
+	.footer-nav ul.list-items, .footer-nav ul.last-list {padding: 0;}
+	.our-area h4, .heading-3, .heading-4, .heading-6,.statistics h4,.our-mission,.market h4,.educational h2 ,.feature-project-content-inner h2, .project-content-inner h2{font-size: 28pt !important;}
+	.market-title h4{font-size: 18pt;}
+	.feature-project-content-inner h2 br,.market-title h4 br{display: none;}
+	.heading-3 span{font-size: 29pt;}
+	.background-image.builds-communitives-sec > .container, .image-row{padding: 0 75pt;}
+	.our-area p,.para-right p, .important-news p, .para-graph ,.para-graph p, .sub-para p, .blogs-sec .three-text p,.blogs-sec .three-text a,.text-section p,.tabs .manage-list-points li,.text-section li,.tabs .acquisit-para,.para-right p, .feature-project-content-inner p,.market-title p,.contact-para,.checkbox-container input:checked ~ span.label,.address span,.project-content-inner p,.market-tab .para-section .para-1,.market-tab .para-section li,.market-tab .three-text p,.box14 .post{font-size: 13pt !important;line-height: 22pt !important;}
+	.contact-para{margin-bottom:20pt;}
+	.feature-project-content-inner{padding: 15pt 15px; background: white;}
+	/*.feature-project-content{top:-160px}*/
+	.important-news{padding-left: 75pt !important;padding-bottom:32px !important;}
+	.images-carousel-sec > div .owl-item{height: 200pt;}
+	.heading-1{top:26% !important;width: 80% !important;}
+	.heading-1 h4{font-size: 34pt !important;}
+	.custom-nav .nav-link,.navbar-nav .menu-item a{font-size: 13pt !important; margin-right: 16pt !important;padding: 0 !important;line-height: 34px !important;}
+	.custom-nav .find-home-btn{max-width: 126pt;height: 30pt;margin-right: 18px;line-height: 30pt;font-size: 11pt;}
+	.heading-2 h4{font-size: 16pt;}
+	.mission-img img { width:100% !important;}
+	.project-content-inner h2, .blogs-sec .three-text h5 {font-size: 18pt;}
+	.about-head-1, .expertise-head-1, .extraordinary-1,.blog-head-1 {font-size: 36pt !important;max-width: 60% !important;line-height: 48pt !important;padding-left: 90pt !important;}
+	.project-content-inner {padding: 14pt 14pt;}
+	.project-content-inner h3{font-size:13pt;margin-top: 10pt;}
+	.statistics-icon-sec .box-part{height:auto;}
+	.statistics-icon-sec .title h4 {font-size: 20pt;}
+	.statistics-icon-sec .title h5 {font-size: 13pt;}
+	.copyright,.footer-nav .last-list {text-align:center}
+	.footer-nav .icons{margin-right:0;}
+	.blogs-sec .three-text p, .blogs-sec .three-text h5{margin-bottom:5px;max-width:100%}
+	.blogs-sec .three-text h5{margin-top:5px;}
+	.blogs-sec .three-img img{height:auto;margin-bottom:20px;}
+}
+
+@media only screen and (max-width: 1200px) {
+	.core-icons{margin: 10px 0}
+	.blog-description-sec{margin-top:10pt}
+	.blogs-sec .three-img,.tab-img img{height:100%;}
+	.about-heading, .expertise-heading,.extraordinary,.news-blog,.contact-section,.carousel-item img,.market-tab .tab-img img{height: 330px;}
+	.market-tab nav > div a.nav-item.nav-link{font-size:12pt; padding: 10px 0;}
+	.new-house {margin-bottom: 12pt;}
+	.link-us {padding-top: 30pt;}
+	.contact-section h4{padding-top:50pt;}
+	.about-head-1, .expertise-head-1,.extraordinary-1,.blog-head-1{font-size: 26pt;max-width: 70%;line-height: 38pt;padding-left: 70pt;}
+	.image-grid-cover{height: 300px;}
+	.team-name{height: auto;padding: 10pt 0 2pt 15pt;}
+	.team-info{max-width: 440pt;}
+	.modal-team-detail {padding: 0 30pt 46pt 50pt;font-size: 26pt;}
+	.modal-detail{margin-bottom: 20px;}
+	.modal-position{margin: 0 0 17pt;font-size: 16pt;}
+	.modal-name{font-size: 20pt;margin-bottom: 8pt;}
+	.statistics-icon-sec .container {padding: 0 50pt 20pt;}
+	.icons a i, .blogs-sec .three-text h5 {font-size: 16pt;}
+	.footer-nav ul.list-items li a{font-size: 11pt;}
+	.footer-nav ul.list-items, .footer-nav ul.last-list {padding: 0;}
+	.our-area h4, .heading-3, .heading-4, .heading-6,.statistics h4,.our-mission,.market h4, .project-content-inner h2, .development-description .develop-des h5,.educational h2,.blog-post h2,.blog-post h5,.follow-on h3, .heading-1 h4{font-size: 23pt;line-height:26pt;}
+	.heading-3 span{font-size: 25pt;}
+	.background-image.builds-communitives-sec > .container, .image-row{padding: 0 50pt;}
+	.career-icons{padding:0;}
+	.core-icons:hover .circle{opacity:0;}
+	.core-icons .circle.openCircle{-webkit-transform: scale(0.6);transform: scale(0.6);opacity:1}
+	.career-icons .box-part{height: 200px;width: 200px;}
+	.career-icons .box-part h4{font-size: 12pt;line-height: 24pt;}
+	.career-icons .box-part h4 > br {display: none;}
+	.image-area img{height: 300px;}
+	.our-area p,.para-right p, .important-news p, .para-graph ,.para-graph p,.box14 .post,.modal-detail,.statistics p,.mission p,.text-section p,.text-section li,.market p,.tabs .acquisit-para, .educational p,.project-content-inner p,.sub-para p, .side-bar span, .blogs-sec .three-text p,.blog-img p,.feature-project-content-inner p ,.contact-para,.checkbox-container input:checked ~ span.label,.checkbox-container input ~ span.label,.address span,.market-tab .para-section .para-1,.market-tab .para-section li,.market-tab .three-text p,.box14 .post{font-size: 11pt;line-height: 20pt;}
+	.checkbox-container .checkmark::after {left: 7px;top: 3px;}
+	.checkbox-container input ~ .checkmark{border-width:1px;height: 20px;width: 20px;}
+	.input-name,.input-msg{margin-bottom:0;font-size:12pt;}
+	span.wpcf7-list-item span, .checkbox-container,.input-text{font-size: 12pt}
+	.checkbox-container input ~ span.label{display:block;}
+	.check-box{margin-bottom:10px;}
+	.checkbox-container{margin-bottom:10px;}
+	.career-client-sec p{font-size: 16pt;}
+	.tabs .acquisit{margin-left:0; font-size:16pt;}
+	.important-news{padding-left: 75pt;}
+	.heading-1{top:26%;width: 80%;}
+	.last-list li a, .copyright{font-size: 10pt;}
+	.custom-nav .nav-link,.navbar-nav .menu-item a{font-size: 10pt; margin-right: 10pt;padding: 0 !important;line-height: 34px;}
+	.custom-nav .find-home-btn{max-width: 126pt;height: 30pt;margin-right: 18px;line-height: 30pt;font-size: 11pt;}
+	.logo-sec.navbar-brand img{max-width: 95pt;}
+	.heading-2 h4{font-size: 16pt;}
+	.images-carousel-sec > div .owl-item .item img, .apply-img img, .educational-img img{height: 100%;}
+	.blogs-sec .three-img img{margin-bottom:0;}
+	.project-content-inner{padding:24pt 14pt;}
+	.project-content{left: 42pt;top:-40px}
+	.project-content-inner h2 {font-size: 18pt;line-height: 20pt;}
+	.project-content-inner h3,.expertise-btn {font-size: 12pt;}
+	.project-content-inner p{font-size: 10pt; line-height:15pt;}
+	.box-part { width: 100%;}
+	.partner {width: 99%;}
+	.nav.nav-tabs {margin-left: 10pt; margin-right: 10pt;}
+	.tab-area {margin-top: 40pt;}
+	.market-title {top: 14pt;width: 100%;left: 14pt;height: auto;max-width: 80%;padding: 10pt 14pt;background-color:rgba(255,255,255,0.8)}
+	.box14{margin-bottom:30px}
+	.map h4,.address { padding-left: 50pt;}
+	.market-tab .military h5 {font-size: 29pt; padding-left: 0pt;}
+	.market-tab .small-line {margin-left: 0pt;}
+	.development-description .develop-des h5 { padding-left:0pt;}
+	.tabs .nav.nav-tabs { margin-left: 15pt; margin-right: 15pt;width: 100%;}
+	.tabs .tab-area {margin-left: 0pt;  margin-right: 0pt; }
+	.blog-row {margin-right: 0pt;}
+	.blog-post h2 {margin-right: 0pt;}
+	.blog-img p {padding-right: 0pt;}	
+	.text-section p{padding:0;}
+	.side-bar { padding-right:15pt;}
+	.market-living { padding-left:15pt;}
+	.feature-project-content-inner h3 span, .project-content-inner h3 span {font-size: 10pt;}
+	.feature-project-content-inner h3, .project-content-inner h3{font-size: 11pt;}
+	.feature-project-content-inner a, .project-content-inner a,.side-bar h6,.para-section .para-1 {font-size: 12pt;}
+	.project-content {left: 14pt;}
+	.our-area{padding: 0 50pt;}
+	.small-line {margin-left: 15px;}
+	.dev-img img,.blog-img img { width: 100%; height: auto;}
+	.search-container input[type="text"]{font-size: 12pt;}
+	.custom-nav .find-home-btn {margin-top: 5pt;}
+}
+
+@media only screen and (max-width:965px) {
+	.learn-more a{margin-top: 10px 0 0 ;}
+	.market-tab .three-img img{height: auto;}
+	.search-blog .search-container { max-width: 100%;}
+	.search-blog .search-container input[type="text"]{font-size: 12pt;}
+	.newsletter h4 {font-size: 12pt;}
+	.custom-nav .nav-link, .navbar-nav .menu-item a {font-size: 9pt;margin-right: 8pt;}
+	.box14 .icon{font-size:12pt;}
+	.box14 .title{font-size: 16pt;}
+	.box14 .post{font-size: 11pt;line-height: 16pt; margin-bottom:0}
+	.box-part { width: 100%; height: 234pt;}
+	.top-dev {margin-left:0pt;}
+	footer .icons{margin-right:0;}
+	.development-description .develop-des h5 {font-size: 30pt;}
+	.para-section .para-1 { font-size: 16pt;}
+	.dev-img img {height: auto;}
+	.footer-nav ul.list-items li a {font-size: 10pt;}
+	.privacy-term { text-align: center;}
+	.copyright { text-align:center;}
+	.feature-project-content-inner h2{font-size: 20pt;}
+	.privacy-term > ul{float:none;}
+	.footer-nav .icons a:last-child{margin:0}
+}
+
+
+@media only screen and (max-width: 910px) {
+	.navbar-expand-sm .navbar-toggler{display: block;}
+	.small-screen-sec{display: block;}
+	.desktop-screen-sec {display: none;}
+	.navbar-expand-sm .navbar-collapse{display: none !important;flex-basis:100% !important;-ms-flex-preferred-size: 100%;}
+	.navbar-expand-sm .navbar-collapse.show{display: block!important;}
+	.navbar-expand-sm>.container{flex-wrap:wrap;}
+	.navbar-expand-sm .navbar-nav{flex-direction:column;}	
+	.ml-auto, .mx-auto{margin-left: 0 !important}
+	.logo-sec.navbar-brand{margin:0;}
+	.mission-img { padding-left: 0pt;margin-bottom:40pt;}
+	.image-row{padding: 0 14pt;}
+	.heading-2 h4, .box14 .title{font-size: 14pt;}
+	.box14 .post{padding: 0 20px 20px;}
+     
+	/* extraordinary */
+	.education-heading{margin-bottom: 7pt;}
+	.educational {margin-top: 30pt;}
+	.donate-sec button{margin-left:12px;}
+	.heading-hr {margin: 0pt 0 14pt 0;}
+	.educational h2 {font-size: 18pt;line-height: 32px;margin-bottom: 15px;}
+	.educational h5 {font-size: 14pt;line-height: 22pt;}
+	.about-toady-btn {font-size: 12pt;margin-top: 10pt;margin-bottom: 20px;}
+	.donate-section {margin-top: 30pt;}
+	.donate-sec {padding: 20px;}
+	.donate-sec h4 {font-size: 16pt;}
+	.donate-sec button {width: 100pt;font-size: 12pt;margin-bottom: 10pt;margin-top: 11pt;}
+	.partner {height: 90pt;}
+
+    .map h4 {padding-left: 15pt;}
+	.address { padding-left: 15pt;}
+	.market-tab nav {  background: #003c82; height: auto;}	
+	.market-tab .military h5 { font-size: 29pt; padding-left: 0pt;}
+	.market-tab .small-line {margin-left: 0pt;}
+	.para-section .para-1 { font-size: 16pt;}
+	.development-description .develop-des h5 { font-size: 22pt;}
+	.small-line {margin-left:0pt;}
+	.important-news { padding-left: 10pt; padding-top:0;}
+    .blog-description-sec .search-container input[type="text"]{font-size: 13pt;}
+	.head-img-des {padding-left: 0pt; padding-right: 0pt;}
+	.para-section .para-1 { font-size: 14pt;}
+	.img-descript { margin-top: 35pt;padding-left: 0pt;padding-right: 0pt;}
+	.footer-nav ul.list-items li{ margin-right: 10px;}
+	.custom-nav .find-home-btn {margin-top: 10px;}
+	.tabs #myTab, .tabs .tab-area{padding: 0 5pt; margin:0 0 5pt;width:100%;}
+	.tabs #myTab li{padding: 2px;}
+	.tabs #myTab .nav-item a{padding:8pt 9pt !important;font-size:11pt;}
+	.feature-project-content {top:0;}
+	.three-img img {width: 545px !important; height:300pt;}
+	.donate-sec a{ margin-left: auto; margin-right: auto; display: block !important}
+}
+
+
+@media only screen and (max-width: 767px) {
+	.market-tab .tab-content{padding: 30px 0;}
+	.tabs .tab-area{margin:15pt 0;}
+	.our-area p, .para-right p, .important-news p, .para-graph, .para-graph p, .modal-detail, .statistics p, .mission p, .text-section p, .text-section li, .market p, .tabs .acquisit-para, .educational p, .project-content-inner p,.feature-project-content-inner p,.contact-para,.market-tab .para-section .para-1{text-align:justify;}
+	.our-area{padding: 0 0;}
+	.blog-post h2, .blog-post h5{font-size:}
+	.pollSlider{width:100%;top:8px;}
+	.search-inline .search-close,.search-open {font-size: 18pt;}
+	.search-inline button[type="submit"]{font-size: 16pt;}
+	.important-news p{margin-top:0;}
+	.story-read-more-btn{margin-bottom:20pt;float:left;width:100%;}
+	.about-head-1, .expertise-head-1, .extraordinary-1, .blog-head-1{font-size: 20pt;padding-left: 50pt;line-height: 28pt;}
+	.custom-nav .nav-link, .navbar-nav .menu-item a{font-size:13pt;}
+	.about-toady-btn {font-size: 12pt;margin-top: 20pt;margin-bottom: 24px;}
+	.apply-img {margin-top: 30pt;}
+	.search-inline .form-control{font-size: 12pt;width: calc(100% - 70px);}
+	.footer-nav ul.list-items, .footer-nav ul.last-list, .copyright{width:100%;text-align:center;}
+	.last-list li{margin-left: 14px;}
+	.last-list li:first-child {margin-left: 0;}
+	.last-list li a, .copyright{font-size: 8pt;}
+	nav { padding-left: 15px; padding-right:15px ; }
+	.container {padding-left: 15px; padding-right:15px ;}
+	.heading-1 h4{font-size:18pt;}
+	.ribbon-title h4{font-size: 14pt;margin: 0 0 12px;float: left;width: 100%;}
+	.background-image.builds-communitives-sec > .container, .image-row, .important-news{padding: 0 14pt;}
+	.our-area h4, .heading-3, .heading-4, .heading-6{font-size: 20pt;}
+	.read-more-btn{margin-top: 15pt;margin-right:0;}
+	.para-right{margin-left:0;margin-top: 30px;color:#fff;}
+	.project-content-inner p{height: 120px;}
+	.heading-3 span {font-size: 22pt;}
+	.community{text-align:center;max-width:100%;}
+	.background-image.builds-communitives-sec{background-position: right;padding-top: 20pt;}
+	.image-area img{ width:100% }
+	.image-right img{ width:100%;height: auto;}
+	.important-news p {max-width: 100%;}
+	.important-news {margin-top: 20pt;}
+	.footer-nav .icons a:nth-child(2){margin:0 20px;}
+	.footer-nav ul.list-items li { margin:5px 0px; display: block;}
+	.icons {text-align: center;width: 100%;display: inline-block;margin: 10px 0 0;}
+	.section-news { margin-top: 0px;}
+	.heading-5{padding-top: 25pt;}
+	.carousel-item img{height: 270pt;}
+	.heading-7{padding-top: 50px;padding-bottom: 40px;}
+	hr{margin: 20pt 0;}
+	.our-area{margin: 46px 10px 34px;}
+	.image-grid-cover {margin: 0 auto;}
+	.image-grid-item{margin-bottom: 20pt;}
+	.signup-sec {padding-top: 20px; padding-bottom: 20px;}
+	.newsletter button {	margin-left: auto;margin-right:auto;	display: block; } 
+	.box-part{margin-left:auto; margin-right:auto;}
+	.mission-img { padding-left: 15px}
+	.team-leaders-content {left:10%}
+	.team-info {width: 381pt; min-height: 610pt; overflow: auto;}
+    .newsletter h4 {display: block !important;}
+	.newsletter a {margin-left: 0pt;}
+     /* extraordinary */
+	.educational {margin-top: 30pt;}
+	
+	.donate-sec a{margin: 0pt auto; display:block !important; height: auto;}
+	.heading-hr {margin: 20pt 0 20pt 0;}
+	.educational h2 {font-size: 23pt;line-height: 44px;margin-bottom: 15px;}
+	.educational h5 {font-size: 14pt;line-height: 25pt;}
+	.about-toady-btn {font-size: 12pt;margin-top: 20pt;}
+	.donate-section {margin-top: 30pt;}
+	.donate-sec {padding: 20px;}
+	.donate-sec h4 {font-size: 16pt;}
+	.donate-sec button {width: 100pt;font-size: 12pt;margin-bottom: 10pt;margin-top: 11pt;}
+	.text-div {margin-top: 25pt;}
+	.icons a {margin: 0 auto;}
+	/* extraordinary ends */
+
+	/*expertise*/   
+	.tab-area { margin-left: 15px; margin-right:  15px;}
+	.tab-img img {height:  auto;}
+	.feature-project-content {left:0pt;width: 100%;height: auto;}
+	.three-img img {margin-bottom: 20pt; height: 250pt; width:100%!important;; }
+	/*.learn-more{margin-top: 20pt; margin-bottom:20pt;}*/
+	.partner {height: 90pt;}
+	/*.market-title {width: 400pt;height: auto;left: 0pt;right: 0; margin-left: auto;margin-right: auto;}*/
+	.learn-more a {  margin-left: auto;margin-right: auto;}
+	.partner {height: auto;}
+	.market-part img {width: 610pt;height: auto;}
+	.manage-text p { font-size: 16pt; width: 100%;top: 20pt;}
+	.market-part img {width: 100%;  height: 322pt;}
+	.finance-list-points li {font-size: 16pt;}
+
+	.feature-project-content {left: 0pt;width:100%;max-width: 86%;height: auto;margin-left: auto;margin-right: auto;right: 0; top: 0;}
+	.three-img:last-child .feature-project-content{left:0;right:0;}
+	.text-section p {padding-left: 0px;padding-right: 0px;}
+	.tabs .development-heading-section h5 {padding-left:0px;padding-right: 0px;}
+    .feature-project-content-inner p{line-height: 1.4;}
+	/*end-expertise*/   
+	
+	/*contact*/   
+	
+	.new-house {display:block; margin-bottom: 20pt;margin-left: auto !important; margin-right: auto !important; text-align: center !important;}
+	.contact-link {display:block; margin-left: auto !important; margin-right: auto !important; text-align: center !important;}
+	.msg-area { max-width: 320pt;width:100%; height: auto; display: block;}
+	.map h4 {padding-left: 0pt;}
+	.address { padding-left:0pt;}
+	.social-icons a { margin:20pt 10pt;}
+	.follow-on h3{padding-top: 20pt;padding-bottom: 0;}
+	.input-text {max-width: 100%; width: 100%;}
+	.checkmark {right:0;}
+	.learn-more h4{display: block !important;}
+	.contact-section h4 {font-size: 24pt;}
+	.link-us {padding-top: 30pt;}
+	/*end-contact*/ 
+	
+	
+  /*market-serve*/
+  .tab-button-outer { position: relative;z-index: 2;display: block;}
+  .tab-select-outer {  display: none;}
+  .tab-contents { position: relative;top: -1px; margin-top: 0; }
+  .market-tab nav { background: #003c82; height: auto;}
+  .development-description .para-section { margin-top: 10pt;}
+  .dev-img img {margin-bottom: 20pt;}
+  
+  /*end-market-serve*/
+  
+  
+  /*news-blog*/
+.blog-description-sec .search-blog .search-container a{top:9px;}
+  .search-blog .search-container {float: none; }
+  .search-blog .search-container input[type=text], .topnav .search-container a {float: none;display: block;text-align: left; width: 100%; margin: 0;padding: 14p;}
+  .search-blog .search-container input[type=text] {max-width:100%;}
+  .blogs-sec {margin-top: 35pt;}
+  .blogs-sec .three-img {margin-bottom: 20pt;}
+  .blogs-sec .three-img img {max-width: 100%; width: 100%;}
+
+  /*end-news-blog*/
+
+ 
+.new-letter a{margin-bottom: 20pt;
+margin-top: 15pt;}
+ /*blog-description*/
+  .blog-img p {padding-right: 0pt; font-size: 11pt;margin-bottom: 30pt;}
+  .blog-img img {height:auto; margin-top:15pt; 	margin-bottom: 15pt;}
+  .blog-post h2, .blog-post h5 {font-size: 18pt; margin-top: 5pt;line-height: 20pt; margin-bottom: 30pt;}
+
+/*end-blog-description*/
+
+ /*img-description*/
+	.expertise-btn,.img-descript {font-size: 11pt;padding-left: 0pt;padding-right: 0pt;}
+	.dev-img img,.market-top {height: auto;}
+	.market-top{padding: 10pt 0;}
+	.side-bar {margin-top:0pt;}
+	.side-bar span,.sub-para p,.para-section .para-1 { font-size: 12pt;}
+	.side-bar h6 {font-size: 16pt;}
+	.market-living {padding-left: 15pt;}
+	.market-living h6{margin-top: 45pt;}
+	.sub,.search-blog {margin-top: 25pt; margin-bottom: 10pt;}
+	/*end-img-description*/
+
+}
+
+
+@media screen and (max-width: 640px){
+	.box14 .post{padding-bottom:10px;}
+	.tabs #myTab li {display: inline-block;width: 49.5%;}
+	.about-head-1, .expertise-head-1, .extraordinary-1, .blog-head-1{padding-left:0}
+}
+
+
+@media screen and (max-width: 480px){
+	.background-image.builds-communitives-sec{height: 550pt;}
+	.tabs #myTab li {display: inline-block;width:99%;margin: 0 0 4px;}
+}
